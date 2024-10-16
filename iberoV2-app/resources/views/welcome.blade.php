@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Virtual Research Assistant</title>
+    <title>Virtual lo Research Assistant</title>
     <link rel="stylesheet" href="{{ asset('assets/style.css') }}">
 </head>
 
 <body>
     <div class="container">
         <img src="{{ asset('assets/iberov2.png') }}" alt="Logo Virtual Research Assistant" class="logo">
-        <img src="{{ asset('assets/uNIVERSIDA TRES CULTURAS.png') }}" alt="Logo Virtual Research Assistant" class="logo1">
+        <img src="{{ asset('assets/uNIVERSIDA TRES CULTURAS.png') }}" alt="Logo Virtual Research Assistant"
+            class="logo1">
 
 
         <h1>Virtual <span class="highlight">Research Assistant</span></h1>
