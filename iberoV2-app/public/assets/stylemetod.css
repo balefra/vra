@@ -1,0 +1,24 @@
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+option {
+    padding: 10px;
+    font-size: 14px;
+    background-color: #fff;
+    color: #333;
+    white-space: normal; /* Permite que el texto se ajuste a varias líneas */
+    line-height: 1.5; /* Aumenta el espacio entre líneas */
+}
+#output {
+    
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    max-width: 1200px;
+}
