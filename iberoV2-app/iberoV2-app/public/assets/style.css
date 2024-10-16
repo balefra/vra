@@ -15,7 +15,13 @@ body {
 }
 
 .container {
-    text-align: center;
+    display: flex;
+    justify-content: right;
+}
+
+.container1 {
+    display: flex;
+    justify-content: left;
 }
 
 h1 {
@@ -89,18 +95,13 @@ body {
     align-items: center;
 }
 .logo {
-    width: 180px; /* Ajusta el tamaño del logo según sea necesario */
-    position: absolute;
-    top: 40px; /* Ajusta la distancia desde la parte superior */
-    left: 40px; /* Ajusta la distancia desde la izquierda */
+    width: 150px;
+    height: 250px;
 }
 
 .logo1 {
-    width: 250px; /* Ajusta el tamaño del logo según sea necesario */
-    position: absolute;
-    top: 10px; /* Ajusta la distancia desde la parte superior */
-    left: 1940px;/* Ajusta la distancia desde la izquierda */
-    
+    width: 150px;
+    height: 250px;   
 }
 /*style de formulacion */
 

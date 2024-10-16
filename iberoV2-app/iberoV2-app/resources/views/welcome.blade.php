@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
+<!--<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Virtual Research Assistant</title>
     <link rel="stylesheet" href="{{ asset('assets/style.css') }}">
-</head>
+</head>-->
 
 <body>
     <div class="container">
         <img src="{{ asset('assets/iberov2.png') }}" alt="Logo Virtual Research Assistant" class="logo">
-        <img src="{{ asset('assets/uNIVERSIDA TRES CULTURAS.png') }}" alt="Logo Virtual Research Assistant" class="logo1">
+        
+    </div>
+    <div class="container1">
+       
+        <img src="{{ asset('assets/logoutc.png') }}" alt="Llogo utc" class="logo1">
+    </div>
 
-
-        <h1>Virtual <span class="highlight">Research Assistant</span></h1>
+        <!--<h1>Virtual <span class="highlight">Research Assistant</span></h1>
 
         <div class="buttons-container">
             <div class="button-card">
@@ -29,8 +33,8 @@
                     <span>Reporte Último Avance</span>
                 </a>
             </div>
-        </div>
-    </div>
+        </div>-->
+    
 </body>
 
 </html>
